@@ -2,3 +2,5 @@ requests
 bs4
 polars-lts-cpu
 pandas
+snowflake_uuid
+json
