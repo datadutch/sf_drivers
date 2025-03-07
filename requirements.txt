@@ -1,6 +1,3 @@
-requests
-bs4
-polars-lts-cpu
+snowflake==1.0.5
 pandas
-snowflake_uuid
-json
+bs4
