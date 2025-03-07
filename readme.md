@@ -12,3 +12,4 @@ pip install -r requirements.txt
 
 # run the script.
 for now, the final step is not working (as designed) but feel free to add smtp details to this
+the suggestion in the script is: Please consider using SQLAlchemy -> will work on that in future versions
